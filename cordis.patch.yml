@@ -1,0 +1,4 @@
+# The Web client-module host discovers this row and loads its ./client export.
+- insert:
+    - id: research-lab-ui
+      name: dsh-lab-research-ui

@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Local DSH runtime & session caches
+.dsh-m0/
+.claude/
+
+# Logs & temp files
+*.log
+npm-debug.log*
+pnpm-debug.log*
+*.tmp
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
